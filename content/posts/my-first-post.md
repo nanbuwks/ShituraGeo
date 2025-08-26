@@ -14,14 +14,16 @@ date: 2025-08-11T09:12:24+09:00
 [202403 第2次能登半島支援作戦 Operation TopBurn]
 (https://photos.google.com/share/AF1QipP3rCyGSiIhsfkYNPEtz0tif4RFXHnTO_VnEOZge56HsBPkqt7mTs-wCgX1KuiFHQ?key=cEFGbVA3SWxNR1ZkRXBsRWNJYndxTjFzUG1jWk13)
 
+[20240421 第3次能登半島災害支援作戦operation REDBURN]
+(https://photos.app.goo.gl/UGuCsBNx4saxPWbN9)
 
 [202406 第4次能登半島支援作戦 Operation Ringburn]
 (https://photos.google.com/share/AF1QipOi2_6sbvGa4PAAxiy8t8J7AxMx_C8HFFLIKztP0Px4m9AA_ftpact-YhZMXOf0-A?key=UUVweEt5dWVQUEpLcDNMa2ZYTjFZMnFtWXg0MnFR)
 
-[202408第6次能登半島災害支援作戦Operation RevBurn]
+[202408第5次能登半島災害支援作戦Operation RevBurn]
 (https://photos.google.com/share/AF1QipNMDPvFJyvFvuyofpyO9RoGJpvrzCBZaHfGscgGUfVT1Quh20caYHssNQkDHZrKRw?key=eVVBUjZnZUR0OTlYcm1OeWJlT3JPZHVuNlpRMnhn)
 
-[202410 第8次能登半島災害支援作戦OperationResistBurn]
+[202410 第7次能登半島災害支援作戦OperationResistBurn]
 (https://photos.google.com/share/AF1QipOE0gN8uYLAdb_9tCdm5VwB8r6rjhkcKLr4Cc2MDox1jmLHz7UOew3XGdoBqgx-cg?key=TnRGZUt0bDJ6bVNEampCZlBlOUx4cEJTbGNVWVpR)
 
 [202411-12  第8次能登半島災害支援作戦 OperationFallBurn(draft)]
