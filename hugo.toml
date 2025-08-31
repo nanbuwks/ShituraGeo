@@ -2,3 +2,22 @@ theme = 'ananke'
 baseURL = 'https://shitsurageo.netlify.org/'
 languageCode = 'ja'
 title = 'Geology of Shitsura'
+
+
+[[menu.main]]
+  identifier = "albums"
+  name = "写真アルバム"
+  url = "/posts/albums/"
+  weight = 10
+[[menu.main]]
+  identifier = "this SITE"
+  name = "このサイト"
+  url = "/posts/whatis/"
+  weight = 20
+[[menu.main]]
+  identifier = "aboutus"
+  name = "Aboutus"
+  url = "/posts/aboutus/"
+  weight = 30
+
+  
