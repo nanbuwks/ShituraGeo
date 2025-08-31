@@ -2,7 +2,6 @@ theme = 'ananke'
 baseURL = 'https://shitsurageo.netlify.org/'
 languageCode = 'ja'
 title = 'Geology of Shitsura'
-publishDir="public"
 
 
 [[menu.main]]
