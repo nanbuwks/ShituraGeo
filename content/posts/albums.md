@@ -21,6 +21,8 @@ date: 2025-08-11T09:12:24+09:00
 [202505 第14次能登半島災害支援作戦 OperationBlewBurn]
 (https://photos.google.com/share/AF1QipObU5ovfZUbavk7gxv9DFts4vs3aUnK8h4ZO20xyj29oepLdNkSfSBVWQszfDpHvA?key=cXhoenpxSmNVU0FTYVoxNnlYTW93Y29HdlRTckl3)
 
+<!--more-->
+
 [202503 第12次能登半島災害支援OperationCircleBurn]
 (https://photos.google.com/share/AF1QipMi5xa4ydA_90XgZFGUzB-N0Gncv-oBYUvKF0ksof0dI_cSrj6_cCloGwBLaPiFnA?key=OGgxTE9RX2pEOC1tOEN3R1lPdHZrMVB2T1BLYnRn)
 
