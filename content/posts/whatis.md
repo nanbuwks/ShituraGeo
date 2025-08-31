@@ -14,3 +14,9 @@ description: ""
 調査した内容などは七浦公民館にて一部展示していますが、それを含めた資料その他をこのサイトで公開していきます。
 
 
+Webページ
+https://shitsurageo.netlify.app/
+
+サイトレポジトリ
+https://github.com/nanbuwks
+
