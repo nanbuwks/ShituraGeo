@@ -1,6 +1,6 @@
 ---
 title: "Aboutus"
-date: 2025-01-1T00:00:00+09:00
+date: 2025-01-01T00:00:00+09:00
 tags: []
 featured_image: ""
 description: ""
