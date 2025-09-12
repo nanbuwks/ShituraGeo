@@ -10,62 +10,75 @@ date: 2025-08-11T09:12:24+09:00
 
 以下は能登半島支援作戦の写真アルバムです。七浦周辺の地質観察も含んでいます。整理などしておらず膨大ですが、ご覧ください。
 
-[202508 第17次能登半島災害支援作戦OperationStarBurn]
-(https://photos.google.com/share/AF1QipPGxHA6OuQ1q_PqIVy-mHx8w9FNT62DiSkoeoA9bbSTpBYMFAEf6ihCJlE9_ST96Q?key=WmtiVVhxWmYwQXBvd2NLOUNMdFQ4cjBKeGhYbmpn)
+[202508 第17次能登半島災害支援作戦OperationStarBurn]  
+(https://photos.app.goo.gl/cytW9maCGXBV2rTP7)
 
 
-[202507 第16次能登半島災害支援作戦 OperationFlowBurn]
-(https://photos.google.com/share/AF1QipNfH-tthXHVhZfO39mOR6fiMO5dukvKEybLO5bgu--Ytu7AGiouHlMYs7VbUZLktQ?pli=1&key=TEp0akFGUFhRLU8wb054Rzl2WTBQYjhsSnppdFpB)
-
-[202506 第15次能登半島災害支援作戦 OperationFlowerBurn]
-(https://photos.google.com/share/AF1QipNtQK7YpI1Oi_7-UaQzZqITNMlIDWbYyRW69zHmsjGEichDdSu5LqSxFO6c4ZYaEg?key=NWhtTlVUM2xDTzI0WEp1UUdSZGotTHc3Nld0RUV3)
+[202507 第16次能登半島災害支援作戦 OperationFlowBurn]  
+(https://photos.app.goo.gl/GN6xnzjtFyAX1xnj6)
 
 
-[202505 第14次能登半島災害支援作戦 OperationBlewBurn]
-(https://photos.google.com/share/AF1QipObU5ovfZUbavk7gxv9DFts4vs3aUnK8h4ZO20xyj29oepLdNkSfSBVWQszfDpHvA?key=cXhoenpxSmNVU0FTYVoxNnlYTW93Y29HdlRTckl3)
+[202506 第15次能登半島災害支援作戦 OperationFlowerBurn]  
+(https://photos.app.goo.gl/3kJ56F6XLgqu2kXQ7)
+
+
+[202505 第14次能登半島災害支援作戦 OperationBlewBurn]  
+(https://photos.app.goo.gl/G5815ySVu2HJJGWP6)
+
 
 <!--more-->
 
-[202503 第12次能登半島災害支援OperationCircleBurn]
-(https://photos.google.com/share/AF1QipMi5xa4ydA_90XgZFGUzB-N0Gncv-oBYUvKF0ksof0dI_cSrj6_cCloGwBLaPiFnA?key=OGgxTE9RX2pEOC1tOEN3R1lPdHZrMVB2T1BLYnRn)
+[202504 第13次能登半島災害支援作戦 OperationBlackBurn]  
+(https://photos.app.goo.gl/stEqvoFk34GJPjnv6)
 
 
-[202502-03第11次能登半島災害支援作戦OperationSolBurn+メイカーズながおかまつり]
-(https://photos.google.com/share/AF1QipMO0zVX91FqRk2Md4DwaTefiSAShPqJxgBHcuNdlmOerrKCSS2u6N9yV4AxwdOC0w?key=Y1RjM1c1d0NOVkFoNExlb3ZnRHBsTGhrNFZKX0tR)
+[202503 第12次能登半島災害支援OperationCircleBurn]  
+(https://photos.app.goo.gl/wRSPBay19tMpJuev7)
 
 
-
-[20241201波打ち際まで]
-(https://photos.google.com/share/AF1QipOZqhmCP6R_cMQHP_w3P5J4Mr77b5RQLRysidusromZogvR5I0PTTV66F8IN6F9Jw?key=YW5ZTjNkYV9JcVpDN3pCeXdYMXdSS2lPdXVRWXp3)
-
-
-[202411-12  第8次能登半島災害支援作戦 OperationFallBurn(draft)]
-(https://photos.google.com/share/AF1QipM3A9nnKr6bMLCHxReMj51piSBBSwWT8lRSN-5FSJcr4TaKMFdoXIiI8HFH0EylNg?key=MFR6UzNhOTlxVTk1ZjRONHBUNGhKR2hwWWZiT1JB)
+[202502-03　第11次能登半島災害支援作戦OperationSolBurn+メイカーズながおかまつり]  
+(https://photos.app.goo.gl/gm2QzbmQPZsYMSqKA)
 
 
-[202410 第7次能登半島災害支援作戦OperationResistBurn]
-(https://photos.google.com/share/AF1QipOE0gN8uYLAdb_9tCdm5VwB8r6rjhkcKLr4Cc2MDox1jmLHz7UOew3XGdoBqgx-cg?key=TnRGZUt0bDJ6bVNEampCZlBlOUx4cEJTbGNVWVpR)
+[202501 第10次能登半島災害支援作戦OperationRiseBurn]  
+(https://photos.app.goo.gl/6pzwqjZu9SQWpxHb6)
 
 
-[202408第5次能登半島災害支援作戦Operation RevBurn]
-(https://photos.google.com/share/AF1QipNMDPvFJyvFvuyofpyO9RoGJpvrzCBZaHfGscgGUfVT1Quh20caYHssNQkDHZrKRw?key=eVVBUjZnZUR0OTlYcm1OeWJlT3JPZHVuNlpRMnhn)
+[202412 第9次能登半島災害支援作戦OperationBreakBurn]  
+(https://photos.app.goo.gl/XxzHwMwY4Eqyccu39)
 
 
-[202406 第4次能登半島支援作戦 Operation Ringburn]
-(https://photos.google.com/share/AF1QipOi2_6sbvGa4PAAxiy8t8J7AxMx_C8HFFLIKztP0Px4m9AA_ftpact-YhZMXOf0-A?key=UUVweEt5dWVQUEpLcDNMa2ZYTjFZMnFtWXg0MnFR)
+[20241201　打ち際まで]  
+(https://photos.app.goo.gl/Up85RasdbV4JJiyQ7)
 
 
+[202411-12  第8次能登半島災害支援作戦 OperationFallBurn]  
+(https://photos.app.goo.gl/7mMgdTfCEaPfKg3K8)
 
-[20240421 第3次能登半島災害支援作戦operation REDBURN]
+
+[202410 第7次能登半島災害支援作戦OperationResistBurn]  
+(https://photos.app.goo.gl/cjaNCbgTU64qUWeY7)
+
+
+[202409 第6次能登半島災害支援作戦Operation CalBurn + NT富山]  
+(https://photos.app.goo.gl/LiLaiHp2nfoohZBK7)
+
+
+[202408第5次能登半島災害支援作戦Operation RevBurn]  
+(https://photos.app.goo.gl/fczuTNjCaAUerPcy9)
+
+
+[202406 第4次能登半島支援作戦 Operation Ringburn]  
+(https://photos.app.goo.gl/qeHUJmqM2HE8uzW88)
+
+
+[20240421 第3次能登半島災害支援作戦operation REDBURN]  
 (https://photos.app.goo.gl/UGuCsBNx4saxPWbN9)
 
 
-[202403 第2次能登半島支援作戦 Operation TopBurn]
-(https://photos.google.com/share/AF1QipP3rCyGSiIhsfkYNPEtz0tif4RFXHnTO_VnEOZge56HsBPkqt7mTs-wCgX1KuiFHQ?key=cEFGbVA3SWxNR1ZkRXBsRWNJYndxTjFzUG1jWk13)
+[202403 第2次能登半島支援作戦 Operation TopBurn]  
+(https://photos.app.goo.gl/DDe236hpscJDLT2R8)
 
 
-
-[202403第1次能登半島災害支援作戦 七尾市焼き出し]
-(https://photos.google.com/share/AF1QipP4ZFoJuDh3j20_yPA2ZxDWbz12aT7eTd85RYRNu9OVuy7pnzN3cplkw04FairmOQ?key=UTZCUmhLbWFxeTUzSGVydG1FUUpfbElTbVY3d3NR)
-
-
+[202403第1次能登半島災害支援作戦 七尾市焼き出し]  
+(https://photos.app.goo.gl/CqrG1WMUkeULE3LA9)
