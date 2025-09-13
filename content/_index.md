@@ -7,5 +7,6 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/IMG_20250726_102944.jpg'
 ---
+
+{{< figure src="/images/DJI_0047.JPG">}}  
 石川県輪島市門前町の七浦地区付近においての、能登半島震災での隆起と歴史  
-{{< figure src="/images/DJI_0047.JPG">}}
