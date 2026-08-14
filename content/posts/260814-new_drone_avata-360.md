@@ -1,6 +1,9 @@
 ---
 title: "DJI Avata 360 の導入"
 date: 2026-08-14T10:40:02+09:00
+tags: []
+featured_image: ""
+description: ""
 ---
 
 # Avata 360
