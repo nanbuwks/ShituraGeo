@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/nanbuwks/Downloads/ShituraGeo",
+	"sourceRoot": "/home/yuki/hugo/ShituraGeo",
 	"sources": [
 		"ananke/css/main.css"
 	],
